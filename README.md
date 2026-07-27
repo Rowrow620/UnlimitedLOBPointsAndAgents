@@ -12,7 +12,7 @@ Requires BaseMod 5.0!
 
 ## Previews
 
-<img width="284" height="184" alt="image" src="https://github.com/user-attachments/assets/3c48b7ef-71e2-4d84-8baf-262830ceff44" />
+<img width="284" height="184" alt="image" src="https://github.com/user-attachments/assets/3c48b7ef-71e2-4d84-8baf-262830ceff44" /><br>
 
 <img width="285" height="240" alt="image" src="https://github.com/user-attachments/assets/573d0377-7a75-4d95-ab76-dab3cc223521" />
 
