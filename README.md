@@ -1,6 +1,7 @@
 # Unlimited LOB Points & Agents
 
 A mod for Lobotomy Corporation that removes agent hiring limits and locks LOB points to 999,999.
+
 Requires BaseMod 5.0!
 ### Key Features
 
