@@ -18,10 +18,15 @@ Requires BaseMod 5.0!
 
 ## Installation
 
-1. Download the latest `UnlimitedLOBPoints.zip` release.
-2. Extract the `UnlimitedLOBPoints` directory into your game folder:
+### Option 1: Via Lobotomy Mod Manager (LMM)
+1. Open `LobotomyModManager.exe`.
+2. Click **Add LocalMod** and select the downloaded `UnlimitedLOBPoints.zip` file (or extracted folder).
+3. Ensure `UnlimitedLOBPoints` is checked in your mod list, then click **Start Game**.
+
+### Option 2: Manual Installation
+1. Extract the `UnlimitedLOBPoints` folder into your game directory:
    `LobotomyCorp_Data\BaseMods\UnlimitedLOBPoints\`
-3. Launch Lobotomy Corporation.
+2. Launch Lobotomy Corporation (or launch via LMM).
 
 ## Requirements
 
