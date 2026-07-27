@@ -1,5 +1,5 @@
 ===================================================
- Unlimited LOB Points & Unlimited Agent Hiring Mod
+ Unlimited LOB Points & Agents Mod
  For Lobotomy Corporation (BaseMod 5.0)
 ===================================================
 

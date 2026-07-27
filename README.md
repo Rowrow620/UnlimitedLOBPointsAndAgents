@@ -1,4 +1,4 @@
-# Unlimited LOB Points & Agent Hiring Mod for Lobotomy Corporation
+# Unlimited LOB Points & Agents Mod for Lobotomy Corporation
 
 A lightweight, high-compatibility **BaseMod 5.0** mod for **Lobotomy Corporation** that grants infinite LOB points and removes daily agent hiring limits.
 
