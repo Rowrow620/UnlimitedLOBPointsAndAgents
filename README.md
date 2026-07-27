@@ -1,51 +1,32 @@
-# Unlimited LOB Points & Agents Mod for Lobotomy Corporation
+# Unlimited LOB Points & Agents
 
-A lightweight, high-compatibility **BaseMod 5.0** mod for **Lobotomy Corporation** that grants infinite LOB points and removes daily agent hiring limits.
+A mod for Lobotomy Corporation that removes agent hiring limits and locks LOB points to 999,999.
+Requires BaseMod 5.0!
+### Key Features
 
----
+* Unlimited LOB Points: Locks your LOB point balance to 999,999 (displayed as ∞).
+* Unlimited Agent Hiring: Bypasses daily agent hiring quota limits, enabling continuous agent recruitment on any day.
+* High Mod Compatibility: Utilizes Harmony execution priority hooks (First/Last) to remain functional alongside death penalty or quota restriction mods.
+* Framework Stability: Compiled against .NET Framework 4.7.2 to ensure native compatibility with Unity Mono.
 
-## ✨ Features
+## Previews
 
-- **Infinite LOB Points**: Locks your LOB point balance to `999,999` and displays `∞` in the UI.
-- **No LOB Deductions**: Customizing or hiring agents never deducts points.
-- **Unlimited Daily Hiring Quota**: Removes daily hiring quota limits (`HIRE (0)` ➔ `HIRE (∞)`), allowing you to hire as many agents as you want on any day.
-- **High Compatibility**: Uses **Harmony Priority Hooks (`First` / `Last`)** so it works smoothly alongside death penalty / quota mods (such as `Bye_Annoying_Deaths`).
-- **Native .NET 4.7.2 Build**: Prevents `ReflectionTypeLoadException` Mono loader errors on Unity Mono runtime.
+![Deployment UI Preview](images/lob_hire_preview.png)
 
----
+![Agent Customization Preview](images/customization_balance_preview.png)
 
-## 📥 Installation
+## Installation
 
-1. Download the latest `UnlimitedLOBPoints.zip` from the [Releases](https://github.com/your-username/UnlimitedLOBPoints/releases) page (or from this repository).
-2. Extract the `UnlimitedLOBPoints` folder into your Lobotomy Corporation `BaseMods` directory:
-   ```text
-   <GameDirectory>\LobotomyCorp_Data\BaseMods\UnlimitedLOBPoints\
-   ```
-3. Launch **Lobotomy Corporation**.
+1. Download the latest `UnlimitedLOBPoints.zip` release.
+2. Extract the `UnlimitedLOBPoints` directory into your game folder:
+   `LobotomyCorp_Data\BaseMods\UnlimitedLOBPoints\`
+3. Launch Lobotomy Corporation.
 
----
+## Requirements
 
-## 🛠️ Building from Source
+* Lobotomy Corporation
+* BaseMod 5.0 or higher
 
 ### Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download) (or .NET Framework 4.7.2 compiler)
-- Lobotomy Corporation installed with BaseMod 5.0
-
-### Build Steps
-```bash
-dotnet build UnlimitedLOBPoints.csproj -c Release
-```
-
-The compiled `UnlimitedLOBPoints.dll` will be output to `bin/Release/net472/`.
-
----
-
-## 📄 Requirements
-- Lobotomy Corporation
-- BaseMod 5.0 (or higher)
-- 0Harmony.dll (included in BaseMod)
-
----
-
-## 📜 License
-[MIT License](LICENSE)
+* .NET 8 SDK or .NET Framework 4.7.2 compiler
+* Lobotomy Corporation with BaseMod 5.0 installed
