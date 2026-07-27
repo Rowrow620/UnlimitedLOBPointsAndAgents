@@ -8,7 +8,6 @@ Requires BaseMod 5.0!
 * Unlimited LOB Points: Locks your LOB point balance to 999,999 (displayed as ∞).
 * Unlimited Agent Hiring: Bypasses daily agent hiring quota limits, enabling continuous agent recruitment on any day.
 * High Mod Compatibility: Utilizes Harmony execution priority hooks (First/Last) to remain functional alongside death penalty or quota restriction mods.
-* Framework Stability: Compiled against .NET Framework 4.7.2 to ensure native compatibility with Unity Mono.
 
 ## Previews
 
