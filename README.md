@@ -12,9 +12,10 @@ Requires BaseMod 5.0!
 
 ## Previews
 
-![Deployment UI Preview](images/lob_hire_preview.png)
+<img width="284" height="184" alt="image" src="https://github.com/user-attachments/assets/3c48b7ef-71e2-4d84-8baf-262830ceff44" />
 
-![Agent Customization Preview](images/customization_balance_preview.png)
+<img width="285" height="240" alt="image" src="https://github.com/user-attachments/assets/573d0377-7a75-4d95-ab76-dab3cc223521" />
+
 
 ## Installation
 
