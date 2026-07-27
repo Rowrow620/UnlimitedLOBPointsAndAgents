@@ -6,7 +6,7 @@ Requires BaseMod 5.0!
 ### Key Features
 
 * Unlimited LOB Points: Locks your LOB point balance to 999,999 (displayed as ∞).
-* Unlimited Agent Hiring: Bypasses daily agent hiring quota limits, enabling continuous agent recruitment on any day.
+* Unlimited Agent Hiring: Hire as many agents as you want for each day.
 * High Mod Compatibility: Utilizes Harmony execution priority hooks (First/Last) to remain functional alongside death penalty or quota restriction mods.
 
 ## Previews
